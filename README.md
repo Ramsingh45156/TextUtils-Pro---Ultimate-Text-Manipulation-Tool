@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# **TextUtils Pro - Ultimate Text Manipulation Tool**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**TextUtils Pro** is a highly interactive and feature-packed React-based web application designed to simplify text manipulation tasks with over 40 powerful functionalities. Whether you're a developer, content creator, writer, or student, this app streamlines text editing and boosts productivity.
 
-## Available Scripts
+## 🚀 **Key Features:**
 
-In the project directory, you can run:
+### **Text Transformations:**
+- Convert text to **Uppercase**, **Lowercase**, **Title Case**, **Sentence Case**, **Alternating Case**, and more with a single click.
 
-### `npm start`
+### **Text Formatting:**
+- **Remove extra spaces**, **trim text**, or **reverse the text** instantly.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### **Text Actions:**
+- **Copy text** to clipboard, **clear the text**, or even **download the transformed text** as a `.txt` file.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### **Advanced Utilities:**
+- **Remove numbers**, **symbols**, or **special characters** from the text.
+- **Sort text alphabetically** or by **word count**.
+- **Encrypt/Decrypt text** for added security.
+- **Text Preview** and live text manipulation feedback for easy validation.
 
-### `npm test`
+### **Text-to-Speech**:
+- Convert text into speech and adjust **pitch** and **speed** to suit your needs.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### **Speech-to-Text** (coming soon):
+- Easily convert your voice into text.
 
-### `npm run build`
+### **Stats & Analytics:**
+- Get real-time **word count**, **character count**, and an **estimated reading time** for your text.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### **Live Alerts:**
+- Receive **confirmation alerts** for every action performed, such as text transformations, clear actions, and more.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### **Dark/Light Mode:**
+- Seamlessly switch between **Dark Mode** and **Light Mode** for an improved user experience based on your preference.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### **Mobile & Desktop Responsive:**
+- The app is fully responsive, making it accessible on any device — desktop, tablet, or mobile.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 💡 **UI/UX Features:**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Built with React and Bootstrap 5** for a clean, modern, and responsive interface.
+- **Real-time Alerts** notify users of successful actions like text transformations, clearing text, or copying to the clipboard.
+- **Easy-to-Use Design**: With a simple and user-friendly interface, you'll be able to perform text manipulation effortlessly without any learning curve.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🔧 **Installation**
 
-## Learn More
+To use **TextUtils Pro** locally, follow these steps:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Live Demo**
+   https://text-utils-pro-ultimate-text-manipulation-tool.vercel.app/
